@@ -1,0 +1,47 @@
+baseurl = "http://operl-sophia.github.io"
+title = "OPerl"
+theme = "dimension"
+languageCode = "ja-jp"
+defaultContentLanguage = "ja"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->ITに興味のある上智大生たちが集まってワイワイする場所<!--]--><br />
+                <!--[-->Join us!<!--]-->'
+  logo = "fa-diamond"
+  copyright = "Mizune Kusunoki"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/m1zyuk1"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[languages]
+[languages.ja]
+languageName = "Japanese"
+weight = 1
+
+
+[languages.en]
+languageName = "English"
+weight = 2
+description = '<!--[-->It is IT community in sophia university.<!--]--><br />
+                <!--[-->Join us!<!--]-->'
+ 
+

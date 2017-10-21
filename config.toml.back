@@ -1,0 +1,4 @@
+baseURL = "http://operl-sophia.github.io/"
+languageCode = "ja-jp"
+title = "OPerl - IT community with Sophia Univ"
+theme = "aerial"
