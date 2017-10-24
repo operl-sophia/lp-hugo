@@ -15,12 +15,12 @@ disableKinds=["RSS"]
 [[params.social]]
   medium = "twitter"
   icon = "twitter"
-  link = "https://twitter.com/m1zyuk1"
+  link = "https://twitter.com/OPerl_sophia"
 
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/OPerl.Sophia"
 
 [[params.social]]
   medium = "instagram"
@@ -30,7 +30,7 @@ disableKinds=["RSS"]
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/operl-sophia"
 
 [languages]
 [languages.ja]
