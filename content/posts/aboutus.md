@@ -1,41 +1,30 @@
 ---
-title: "About Us"
+title: "About"
 draft: true
 weight: 1
 ---
-# What's this site?
 
-## H2 param
+ようこそ！
+OPerlは上智大学生が所属する`IT系コミュニティ`です．`情報工学やITに関わることに興味がある学生`たちが集り、色々なことができる場になったらいいなと思っています．基本的な活動はこんなものを考えています．
+<br>
+- 何人かで集まって勉強会へ遊びにいく
+- 仲のいい人とハッカソンに参加してみる
+- 自分達のスキルを試すために競技プログラミングのチームを組んでみる
+- 身についた知識をコミュニティで広める
+- コミュニティで集まって勉強会を開く
 
-### H3 Param
+などなど、何をしても構いません！ 上智大学のITが好きな人たちが気楽に交流できる場　それがOPerlの目指すコミュニティです．
 
-#### h4 param
 
-##### h5 param
+# Join us
+情報理工学科に入ったけどソフトウェア作れないしよくわかんないけど自分で作りたいというそこのあなたも！
+情報理工学科じゃな胃からまだよくわかんないけどアプリとか作ってみたいというあなたも！
+興味がある方は是非是非ご参加ください！
 
-###### h6 param
+OPerlはサークルではなく興味のある人の集りでしかないので、自分が楽しくできることをやれば良いのです！
 
-- list1
-- list2
- - list 2-1
+-------
 
-  1. numlist
-   1. numlist
-
-    ---
-
- ```
-      code
-
-```
-
- ```test.md
-# testcode
-```
-
-[link](http://google.com)
-![image](https://blogs.technet.microsoft.com/wp-content/themes/microsoft/images/ms-logo-gray.svg)
-
-This is `highlight` text
-
+# あなたも参加しよう!
+気になったら<a href="#contact">こちら</a>からの連絡をお待ちしています!
 

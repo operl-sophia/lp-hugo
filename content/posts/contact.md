@@ -5,7 +5,7 @@ menuname = "Contact"
 draft = true
 +++
 
-<form id="contactform" method="post" action="https://formspree.io/willful.slight@gmail.com">
+<form id="contactform" method="post" action="https://formspree.io/operlsophia@gmail.com">
 	<div class="field half first">
 		<input type="text" name="name" id="name" placeholder="Name"/>
 	</div>
