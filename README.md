@@ -10,10 +10,15 @@ This is page of Information Technology Circle "OPerl".
 git clone git@github.com:operl-sophia/lp-hugo.git 
 ```
 
-2. Clone some themes using git
+2. Clone dimention themes using git clone in themes
+
+```
+cd themes
+```
+
 
 ``` 
-git clone {some theme's repository}
+git clone https://github.com/sethmacleod/dimension.git themes/dimension
 ```
 
 3. Create .gitignore and writedown that
