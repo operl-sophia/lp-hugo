@@ -1,7 +1,6 @@
 ---
 title: "Rule"
 weight: 2
-draft: true
 ---
 
 ## 基本的にフリー

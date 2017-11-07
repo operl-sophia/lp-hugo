@@ -2,7 +2,6 @@
 title = "Contact"
 weight = 60
 menuname = "Contact"
-draft = true
 +++
 
 <form id="contactform" method="post" action="https://formspree.io/operlsophia@gmail.com">
